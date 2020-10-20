@@ -1,0 +1,7 @@
+git init
+git add .                 добавить все файлы в репозиторий
+git commit -m "Initial"   зафиксировать версию файла
+
+
+git config --global user.email "danila7777@mail.ru"
+git config --global user.name "Danila_M"

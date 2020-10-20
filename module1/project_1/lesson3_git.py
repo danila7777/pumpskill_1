@@ -1,6 +1,6 @@
 import time
 i = 0
-k = 10
+k = 7
 while i <= k:
     if i == 0 or i == 5:
         i = i + 1
