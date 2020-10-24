@@ -13,4 +13,4 @@ while i <= k:
             print('Часть 2:', i, end='\r')
         if i == k:
             print('Часть 2:', i)
-    i = i+1
+    i = i+2
