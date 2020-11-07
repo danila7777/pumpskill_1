@@ -5,7 +5,7 @@ try:
     print('Ваш пароль состоит только из цифр')
 except:
     try:
-        result = password[1]
+        result = password[0]
         print('Требования к паролю соблюдены')
     except:   
         print('Вы ввели пустой пароль')
